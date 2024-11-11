@@ -1,7 +1,7 @@
 import telebot
 import requests
 
-TOKEN = "8097727230:AAFBgM2pLcfE_-ZuHZmpP3Zv30D-M-8Pi1M"
+TOKEN = "secret"
 bot = telebot.TeleBot(TOKEN)
 
 OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
